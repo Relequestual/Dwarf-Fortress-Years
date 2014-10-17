@@ -1,1 +1,0 @@
-I use a folder like this to hold all my screenshots, maps exported from legends mode, backups of save files, and so on.  It makes it a lot easier to change versions when I can just copy a single folder into the new location, along with the save folder!
